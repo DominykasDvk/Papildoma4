@@ -33,9 +33,10 @@ body {
   text-transform: uppercase;
   font-weight: normal;
 }
-.head2 p{
+.head2 h4{
   text-align: center;
   font-size: x-large;
+  font-weight: normal;
 }
 .head2 strong{
   font-size: xx-large
